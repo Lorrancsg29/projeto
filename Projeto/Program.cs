@@ -132,12 +132,8 @@ namespace Projeto
 
                     case Menu.sair:
                         escolheuSair = true;
-                        break;
-                    default:
-                        break;
+                        break;                   
                 }
-
-
 
             }
         }
